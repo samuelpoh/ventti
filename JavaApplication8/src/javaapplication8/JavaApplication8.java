@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package javaapplication8;
-
+///kommentti
 /**
  *
  * @author s1800590
