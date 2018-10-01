@@ -16,7 +16,7 @@ public class JavaApplication8 {
         //testi testi
         
         System.out.println("Tervetuloa pelaamaan Venttiä");
-        System.out.println("Ventti pelin säännöt");
+        System.out.println("Kerron sinulle pelin säännöt");
     }
     
 }
