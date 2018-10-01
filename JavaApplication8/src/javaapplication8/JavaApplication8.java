@@ -13,6 +13,7 @@ public class JavaApplication8 {
 
     public static void main(String[] args) {
         // TODO code application logic here
+        //testi testi
         
         System.out.println("Tervetuloa pelaamaan Venttiä");
         System.out.println("Ventti pelin säännöt");
