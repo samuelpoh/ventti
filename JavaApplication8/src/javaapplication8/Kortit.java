@@ -9,6 +9,6 @@ package javaapplication8;
  *
  * @author s1800590
  */
-public class Kortti {
+public class Kortit {
     
 }
